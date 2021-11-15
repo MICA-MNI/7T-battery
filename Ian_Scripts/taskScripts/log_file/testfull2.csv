@@ -1,0 +1,31 @@
+METADATA:
+Block Runtime,Experiment Seed,"Number of ""Go/No Go"" stimuli","Number of ""Other"" stimuli","Number of ""Self"" stimuli",Number of Finger Tapping blocks (5 stimuli per block),Number of Memory stimuli,Number of One-Back stimuli,Number of Reading stimuli,Number of Zero-Back stimuli,Subject
+10,1,2,2,2,2,2,2,2,2,2
+6.79564049999999
+Timepoint,Time,Is_correct,Experience Sampling Question,Experience Sampling Response,Task,Task Iteration,Participant ID,Response_Key,Auxillary Data
+EXPERIMENT DATA:,Zero-Back Task
+Start Time,6.796016299999792
+0-Back Start,6.79603139999972,,,,Zero-Back Task,1,2,,
+NoGoStimulus Start,12.426907199999732,,,,Zero-Back Task,1,2,,ZeroBack
+NoGoStimulus End,13.886707099999967,True,,,Zero-Back Task,1,2,None,ZeroBack
+NoGoStimulus Start,16.035923399999774,,,,Zero-Back Task,1,2,,ZeroBack
+NoGoStimulus End,16.928408799999943,True,,,Zero-Back Task,1,2,None,ZeroBack
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,22.194854899999882
+ESQ,24.550761099999818,,Focus_start,,Experience Sampling Questions,1,2,,
+ESQ,26.692340799999783,,Focus_response,5.900000000000004,Experience Sampling Questions,1,2,,Marker Started at 7
+ESQ,26.692612899999858,,Future_start,,Experience Sampling Questions,1,2,,
+ESQ,28.26158839999971,,Future_response,7.0,Experience Sampling Questions,1,2,,Marker Started at 7
+EXPERIMENT DATA:,One-Back Task
+Start Time,28.268144099999972
+0-Back Start,28.2681577999997,,,,One-Back Task,1,2,,
+NoGoStimulus Start,33.60567779999974,,,,One-Back Task,1,2,,OneBack
+NoGoStimulus End,34.72054200000002,True,,,One-Back Task,1,2,None,OneBack
+NoGoStimulus Start,36.904265699999996,,,,One-Back Task,1,2,,OneBack
+NoGoStimulus End,37.75550179999982,True,,,One-Back Task,1,2,None,OneBack
+EXPERIMENT DATA:,Experience Sampling Questions
+Start Time,38.22853269999996
+ESQ,38.71002539999972,,Focus_start,,Experience Sampling Questions,1,2,,
+ESQ,40.922281099999964,,Focus_response,5.799999999999998,Experience Sampling Questions,1,2,,Marker Started at 4
+ESQ,40.92254469999989,,Future_start,,Experience Sampling Questions,1,2,,
+ESQ,42.442684499999814,,Future_response,7.100000000000007,Experience Sampling Questions,1,2,,Marker Started at 9
